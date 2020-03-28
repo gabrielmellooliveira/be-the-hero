@@ -13,7 +13,7 @@ export default function Register() {
 
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
-    const [Whatsapp, setWhatsapp] = useState('');
+    const [whatsapp, setWhatsapp] = useState('');
     const [city, setCity] = useState('');
     const [uf, setUf] = useState('');
 
